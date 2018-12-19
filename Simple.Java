@@ -8,4 +8,4 @@ class Simple{
       System.out.println(c);
     }
   }
-}  
+}
